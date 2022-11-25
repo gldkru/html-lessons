@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 .container {
 	display: flex;
 	width: 600px;
@@ -6,7 +10,7 @@
 	/* flex-wrap: nowrap; */
 
 	/* For presentation */
-	margin: 20px;
+	/* margin: 20px; */
 }
 
 .block {
