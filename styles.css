@@ -1,0 +1,22 @@
+.block {
+	width: 200px;
+	height: 200px;
+	border: 5px solid;
+	padding: 20px;
+	margin: 20px;
+	background: green;
+}
+
+.block-content-box {
+	box-sizing: content-box;
+}
+
+.block-border-box {
+	box-sizing: border-box;
+}
+
+.block-bg {
+	width: 100%;
+	height: 100%;
+	background: #eee;
+}
